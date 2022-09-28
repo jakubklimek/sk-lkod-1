@@ -17,7 +17,7 @@
     dct:title "Jízdní řády veřejné linkové dopravy"@sk, "Public transport timetables"@en;
     dct:description "Obsahem datové sady jsou schválené a aktuálně platné jízdní řády veřejné linkové dopravy postoupené do Celostátního informačního systému o jízdních řádech ve strojově zpracovatelném formátu."@sk ;
     dct:description "This dataset contains approved timetables and timetables in effect for public transport entered into the state-wide timetable information system."@en ;
-    dct:publisher <https://data.gov.sk/organization/3553318c-c815-4b28-8087-1f99540b3652> ;
+    dct:publisher <https://data.gov.sk/id/legal-subject/00681156> ;
     dct:type <https://data.gov.sk/def/dataset-type/1> ;
     dcat:theme theme:TRAN ;
     dct:accrualPeriodicity freq:WEEKLY_3 ;
