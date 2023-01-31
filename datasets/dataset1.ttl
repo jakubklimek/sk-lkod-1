@@ -14,7 +14,7 @@
 @prefix law: <https://data.gov.sk/def/ontology/law/> .
 
 <https://raw.githubusercontent.com/jakubklimek/sk-lkod-1/main/datasets/dataset1.ttl> a dcat:Dataset ;
-    dct:title "Jízdní řády veřejné linkové dopravy"@sk, "Public transport timetables"@en;
+    dct:title "Jízdní řády veřejné linkové dopravy DCAT-AP-SK 2.0 Dokumenty"@sk, "Public transport timetables DCAT-AP-SK 2.0 Dokumenty"@en;
     dct:description "Obsahem datové sady jsou schválené a aktuálně platné jízdní řády veřejné linkové dopravy postoupené do Celostátního informačního systému o jízdních řádech ve strojově zpracovatelném formátu."@sk ;
     dct:description "This dataset contains approved timetables and timetables in effect for public transport entered into the state-wide timetable information system."@en ;
     dct:publisher <https://data.gov.sk/id/legal-subject/00681156> ;
