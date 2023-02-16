@@ -12,4 +12,5 @@
         vcard2006:fn "Ministerstvo"@sk, "Ministry"@en ;
         vcard2006:hasEmail <mailto:jakub.klimek@matfyz.cuni.cz>
     ] ;
-    dcat:dataset <https://raw.githubusercontent.com/jakubklimek/sk-lkod-1/main/datasets/dataset1.ttl> .
+    dcat:dataset <https://raw.githubusercontent.com/jakubklimek/sk-lkod-1/main/datasets/dataset1.ttl> ,
+        <https://raw.githubusercontent.com/jakubklimek/sk-lkod-1/main/datasets/hvd.ttl> .
